@@ -1,10 +1,10 @@
 ## GitHub Page - Venkat
 
-Welcome and Rab Rakha
+<h2>Welcome and Rab Rakha</h2>
 
 <p> Here Below you can browse to learn Python and other Data Science related code churned out by ME !!! </P>
-
+<br>
 
  I use Colab from Google, to learn Python.
- 
- <a href:"https://colab.research.google.com/drive/1Xj54nlzTexVVQngH9HRPhQxvVESqBiPq#scrollTo=-_jg5b6PHMM-"> My First Colab File </a>
+ <br>
+ <a href="https://github.com/venkat1970/Venkat-P/Summertrg-1-Venkat.ipynb"> My First Colab File </a>
