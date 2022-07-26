@@ -7,4 +7,4 @@
 
  I use Colab from Google, to learn Python.
  <br>
- <a href="https://github.com/venkat1970/Venkat-P/Summertrg-1-Venkat.ipynb"> My First Colab File </a>
+ <a href="https://github.com/venkat1970/Venkat-P/Summertrg1-Venkat.ipynb"> My First Colab File </a>
